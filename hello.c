@@ -4,6 +4,6 @@ int main()
    printf("Hello, World!");
    printf("surya commit");
    printf("sameer commit");
-   %x
+   %c
    return 0;
 }
